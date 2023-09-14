@@ -1,22 +1,48 @@
+# PomoStamp
 
+## 1. PJT summary
 
-## 배포
-### Frontend
-http://i7a608.p.ssafy.io:8001
+---
 
-### Backend
-로그인 서버
-http://i7a608.p.ssafy.io:8080
+- 팀명: A608
+- 프로젝트명: PomoStamp
+- 주제: 자율학습 관리 및 감독 시스템
+- 기간: 2022.07.11 - 2022.08.19
+- 기술 스택:
+  - 협업, 버전 관리: Git, GitLab, Notion, Jira, MatterMost
+  - 언어: JavaScript, Java
+  - FE/BE Framework: React.js, Spring Boot Security
+  - DB: MySQL, Redis
+  - 배포: AWS EC2, Nginx
+  - 디자인: Swagger, Figma
 
-감정 인식 서버
-http://i7a608.p.ssafy.io:8000
+## 2. 주요 기술
 
-### 브랜치
+### BackEnd
 
-Feat_#number
+- IntelliJ IDEA 2022.1.3
+- Java open-JDK zulu 8.33.0.1
+- Spring Boot
+- Spring Data JPA
+- Spring Web
+- QueryDsl 1.0.10
+- Gradle 7.5
+- Flask 서버 2.1.3
+- MySQL Workbench 8.0.21
+- Redis 0.9.3.817
 
-### 이슈 (탬플릿 사용법)
+### FrontEnd
 
-[TITLE] FUNCTION
-TITLE : POST/USER/COMMENT/REPLY/FILE/LIKE/RELATIONSHIP 중 개발한 파트를 선택
-FUNCTION : {게시물, 유저, 댓글, 대댓글, 파일, 좋아요, 관계} {생성, 조회, 수정, 삭제} 기능 {구현, 수정, 에러해결
+- Visual Studio CODE
+- React(CRA) 18.2.0
+- Node.js 16.16.0
+- OpenVidu 2.22.0
+
+### Deploy
+
+- AWS EC2
+- Ubuntu 20.04 LTS
+- Nginx
+- Certbot
+- Xshell 7.0.0025
+- FileZilla 3.60.2
