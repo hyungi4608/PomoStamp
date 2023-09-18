@@ -11,7 +11,7 @@
 - 기술 스택:
   - 협업, 버전 관리: Git, GitLab, Notion, Jira, MatterMost
   - 언어: JavaScript, Java
-  - FE/BE Framework: React.js, Spring Boot Security
+  - FE/BE Framework: React.js, Spring Boot
   - DB: MySQL, Redis
   - 배포: AWS EC2, Nginx
   - 디자인: Swagger, Figma
