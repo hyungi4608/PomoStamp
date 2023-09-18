@@ -14,7 +14,7 @@
   - FE/BE Framework: React.js, Spring Boot
   - DB: MySQL, Redis
   - 배포: AWS EC2, Nginx
-  - 디자인: Swagger, Figma
+  - 디자인: Figma
 
 ## 2. 주요 기술
 
